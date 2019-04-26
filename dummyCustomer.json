@@ -1,0 +1,25 @@
+[{
+  "name": "ana",
+  "password": "password1",
+  "balance": 0,
+  "point": 0,
+  "tier": "Bronze"
+}, {
+  "name": "deddy",
+  "password": "password2",
+  "balance": 0,
+  "point": 0,
+  "tier": "Silver"
+}, {
+  "name": "Rudy",
+  "password": "password3",
+  "balance": 0,
+  "point": 0,
+  "tier": "Gold"
+}, {
+  "name": "alvin",
+  "password": "password4",
+  "balance": 0,
+  "point": 0,
+  "tier": "Platinum"
+}]

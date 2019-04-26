@@ -1,0 +1,16 @@
+[{
+  "name": "foreignExchange",
+  "price": 15000,
+  "pointplus": 10,
+  "timepurchased": 0
+}, {
+  "name": "topUp",
+  "price": 2000,
+  "pointplus": 1,
+  "timepurchased": 0
+}, {
+  "name": "transfer",
+  "price": 5000,
+  "pointplus": 3,
+  "timepurchased": 0
+}]

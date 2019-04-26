@@ -1,0 +1,17 @@
+[{
+  "CustomerId": "1",
+  "ServiceId": "1",
+  "point": 0
+}, {
+  "CustomerId": "1",
+  "ServiceId": "2",
+  "point": 0
+}, {
+  "CustomerId": "1",
+  "ServiceId": "3",
+  "point": 0
+}, {
+  "CustomerId": "2",
+  "ServiceId": "2",
+  "point": 0
+}]
